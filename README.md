@@ -21,9 +21,9 @@ This project aims to analyze the impact of a teams bench players across NBA seas
 
 NBA_BenchImpact_Analysis/
 ├── data/
-│ └── raw/
-│ ├── playoff_batches/
-│ └── regular_batches/
+│   └── raw/
+│       ├── playoff_batches/
+│       └── regular_batches/
 ├── logs/
 └── notebooks/
 
