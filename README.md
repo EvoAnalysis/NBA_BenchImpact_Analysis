@@ -54,4 +54,4 @@ NBA_BenchImpact_Analysis/
 
 ---
 
-> 📂 *This is a work-in-progress portfolio project. Updates will be made incrementally and transparently as more data is collected and developed.*
+> 📂 *This is a work-in-progress project. Updates will be made incrementally and transparently as more data is collected and developed.*
