@@ -1,6 +1,6 @@
 # 🏀 NBA_BenchImpact_Analysis
 
-This project aims to analyze the impact of a teams bench players across NBA seasons relative to their teams success. Current game data is retrieved using `nba_api`, seperated by regular season and playoffs for the 19.  
+This project aims to analyze the impact of a teams bench players across NBA seasons relative to their teams success. Current game data is retrieved using `nba_api`, seperated by regular season and playoffs.  
 
 **Latest Update:**  
 ✅ All playoff data from 1983–84 to 2023–24 has been collected using automated season-by-season scrapers. Added logic to skip previously games and resume failures.  
@@ -10,10 +10,10 @@ This project aims to analyze the impact of a teams bench players across NBA seas
 
 ## 🧠 Technologies Used
 
-- Python (pandas, numpy, nba_api)
+- Python
 - JupyterLab
 - Git/GitHub for version control
-- Power BI / Tableau (planned)
+- Power BI (planned)
 
 ---
 
